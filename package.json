@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flashcard Generator, UCB Week 11 HW",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellaFLOW/Flashcard-Generator.git"
+  },
+  "author": "intellaFLOW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intellaFLOW/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/intellaFLOW/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
